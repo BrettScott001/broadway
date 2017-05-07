@@ -13,7 +13,7 @@ div.header {
     background-image: url("../media/the-flatiron-building.png");
 }
 
-a.headerlink {
+a.nav_link {
     color: white;
     font-size: 18px;
 }
